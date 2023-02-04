@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmspeedrunner&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
